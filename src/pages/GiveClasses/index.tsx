@@ -2,10 +2,11 @@ import React from 'react';
 import { View, ImageBackground, Text } from 'react-native';
 
 import giveClassBackground from "../../assets/images/give-classes-background.png";
-
-import styles from './styles';
 import { RectButton } from 'react-native-gesture-handler';
 import { useNavigation } from '@react-navigation/native';
+
+import styles from './styles';
+
 
 function GiveClasses() {
     const navigation = useNavigation();
