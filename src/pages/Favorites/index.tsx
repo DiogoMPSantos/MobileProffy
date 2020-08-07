@@ -28,7 +28,7 @@ function Favorites() {
     }
 
     return (
-        <View style={{flex: 1,}}>
+        <View style={styles.container}>
             <PageHeader title="Meus proffys favoritos" />
             <ScrollView style={styles.teacherList}
                 contentContainerStyle={{
