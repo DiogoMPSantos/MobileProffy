@@ -5,7 +5,7 @@ React Native Mobile App for Proffy Aplication
 
 npm install or yarn
 
-# Iniciar Server
+# Iniciar App
 
 npm start or yarn start
 
